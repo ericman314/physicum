@@ -1,6 +1,7 @@
-# physicum
+# _Physicum_
 
-_Physicum_ is an interactive, 2D rigid-body mechanics simulator with an emphasis on accuracy.
+_Physicum_ is a 2D rigid-body mechanics simulator (physics engine) with an emphasis on accuracy.
+
 
 ## License
 _Physicum_ is licensed under the MIT License.
