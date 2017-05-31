@@ -1,0 +1,25 @@
+{
+  "name": "physicum",
+  "description": "Physicum is a 2D rigid-body mechanics simulator (physics engine) with an emphasis on accuracy.",
+  "version": "0.1.0",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericman314/physicum.git"
+  },
+  "author": "Eric Mansfield",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ericman314/physicum/issues"
+  },
+  "homepage": "https://github.com/ericman314/physicum#readme",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies":
+  {
+  }
+}
